@@ -4,3 +4,7 @@ cccc
 eee
 fff
 shagua
+mode
+mode
+mode
+
